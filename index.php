@@ -16,7 +16,7 @@
 	</header>
 
 	<main>
-		<?php include $_GET['page'] ?? 'beranda.php'; ?>
+		<?php include $_GET['page'] ?? 'home.php'; ?>
 	</main>
 
 	<?php include 'footer.php'; ?>
