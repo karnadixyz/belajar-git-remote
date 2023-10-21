@@ -11,6 +11,7 @@
 				<li><a href="?page=home.php&title=Beranda">Beranda</a></li>
 				<li><a href="?page=about.php&title=Tentang Kami">Tentang Kami</a></li>
 				<li><a href="?page=contact.php&title=Kontak">Kontak</a></li>
+				<li><a href="?page=foobar.php&title=Foo Bar">FooBar</a></li>
 			</ul>
 		</nav>
 	</header>
